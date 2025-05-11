@@ -1,7 +1,7 @@
 ## App Overview
 
 Bantr is a social media platform designed to allow users to create, view, and interact with posts. It features user authentication, post creation, comment functionality, trending searches, and user profiles.
-
+Link -> https://bantr-dlxx.onrender.com/
 ![Bantr Screenshot](/frontend/public/Bantr.png)
 
 ## Technologies Used
